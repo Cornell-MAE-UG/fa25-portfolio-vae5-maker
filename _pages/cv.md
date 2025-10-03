@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Violeta Egan - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
