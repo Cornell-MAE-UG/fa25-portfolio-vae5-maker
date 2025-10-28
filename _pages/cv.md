@@ -13,59 +13,61 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in water and wastewater treatment systems. Passionate about WASH systems, global health and equity, and humanitarian engineering work and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
-
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+  *Bachelor of Science in Environmental Engineering*
+  College of Agriculture and Life Sciences & College of Engineering  
+  Graduation: May, 2027
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** AutoCAD, Excel  
+- **Programming:** Python, R  
+- **Languages:** Bulgarian (fluent), Spanish (conversational)  
 
 ---
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+#### Relevant Coursework
+- Environmental Engineering Processes
+- Statics and Mechanics of Solids
+- Fluid Dynamics
+- Engineering Computations  
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Eswatini Ministry of Economic Planning and Development; Engineers In Action**  
+  *Project Manager*         [January 2025 - August 2025]
+  - Led the design and implementation of a solar powered water distribution system for 300 primary school students in Eswatini, Africa
+  - Facilitated collaboration and mentorship between professional engineers and 12 students from two different universities
+  - Connected and managed a team of 20 students and local staff to construct a 600 meter distribution system for over 8 weeks onsite
+  - Forged cross-cultural relationships between local community members and the student team
+
+  *Construction Manager*         [January 2024 - July 2024]
+  - Directed the construction of the pilot WASH project for a team of students and local community members for 6 weeks onsite in Eswatini, Africa
+  - Serviced 200 primary school students and staff with a 300 meter solar powered water distribution system
+  - Created gantt chart and Bill of Quantities using MS Excel that was implemented with a daily work plan onsite each day 
+
+- **Cornell Fitness Centers**
+  *Student Worker*
+  - Assist in tasks to clean, organize, and maintain smooth operations of fitness centers
+  - Ensure the safety of fitness centers across campus
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- First Aid/CPR/AED, American Red Cross, 2025  
+- New York State Seal of Biliteracy, Bulgarian and Spanish, 2023  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
+- Member of Rise Dance Group  
 ---
 
 #### References
