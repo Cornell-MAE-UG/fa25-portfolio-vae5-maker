@@ -1,25 +1,27 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+title: Herefords WASH Project 2025
+description: Design, technical report writing, and project construction for a solar powered water distribution system
+technologies: [AutoCAD]
+image: /assets/images/herefords_headshot.jpg
 ---
 
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+As a part of the Engineers in Action project team, I worked together with a team of twelve students from Cornell and Duke University. The WASH (water, sanitation, hygiene) system we constructed over the course of 8 weeks consists of a solar powered pump pulling water from a borehole, storage tanks, and a 600 meter distribution system that brings the clean water to taps throughout the school. The system serves about 300 students and staff at Herefords Primary School and replaces their previously contaminated and inconsistent water system. The new system aims to reduce water-borne illnesses and improve hygiene practices with the students. The solar powered design of the system is both sustainable and economically viable for continued maintenance. 
 
+As Project Manager, I led the team through design, documentation including status reports and presentation to professional engineers, EIA staff, and local authority, and manage the team in-country through the construction and cultural interactions. 
 
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+The specific design components I worked on were the tapstand and construction drawings. Samples of my work are shown below.
 
+*insert sample here*
 
-This is how I solved the problem:
+Here is a sample of the technical report writing I completed for one of our deliverables. In addition to writing my sections, I would review the entire document before submitting to professional engineers for review.
 
-```python
-    some code = 10;
-    plot();
-```
+*insert sample here*
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Here are some photos of the construction work I did on site:
+
+*insert photos here*
+
 
 
