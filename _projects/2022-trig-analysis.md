@@ -21,7 +21,9 @@ Here is a sample of the technical report writing I completed for one of our deli
 
 Here are some photos of the construction work I did on site:
 
-*insert photos here*
+---
+image: /assets/images/herefords_headshot.jpg
+---
 
 
 

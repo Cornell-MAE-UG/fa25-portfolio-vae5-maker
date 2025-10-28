@@ -5,10 +5,12 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [vae5@cornell.edu](mailto:vae5@cornell.edu) | | | **Phone:** +1 845-327-8911
+
+**LinkedIn** ({{ https://www.linkedin.com/in/violeta-egan-b74012302/ | relative_url }})
 
 ---
 
