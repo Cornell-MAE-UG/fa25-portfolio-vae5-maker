@@ -1,13 +1,20 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: Matfuntini WASH Project 2024
+description: Construction documents, technical report writing, and project implementation for a solar powered water distribution system
+technologies: [AutoCAD, Excel]
+image: /assets/images/matfuntini_headshot.jpg
 ---
 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+I worked together with a team six students from Cornell University to pilot the first student WASH project for Engineers in Action. The WASH (water, sanitation, hygiene) system we constructed over the course of 6 weeks consists of a solar powered pump pulling water from a borehole, storage tanks, and a 300 meter distribution system that brings the clean water to taps throughout the school. The system serves about 200 students and staff at Matfuntini Primary School and replaces their previously contaminated and inconsistent water system. The new system aims to reduce water-borne illnesses and improve hygiene practices with the students. The solar powered design of the system is both sustainable and economically viable for continued maintenance. 
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+As Construction Manager, I created the Gantt chart and Bill of Quantities for the project. On site, I created a daily work plan and led the local community memebers in the construction of their water system. I tracked the inventory of the project and was responsible for ensuring all materials and tools were on site. I had extensive knowledge of the parts and materials needed for the project, and gained hands-on experience with plumbing, power tools, and concrete mixing.
 
+Samples of the Gantt chart and Bill of Quantities I created:
+
+*insert image here*
+
+Here are some photos of the construction work I did on site:
+
+*insert image here*
