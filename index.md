@@ -6,7 +6,7 @@ title: Violeta Egan
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile-pic.jpeg" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and I am an aspiring environmental engineer with an interest in water and wastewater treatment, WASH infrastructure, and renewable energy. I am passionate about global development and human-centered that creates positive change and empowers communities.
