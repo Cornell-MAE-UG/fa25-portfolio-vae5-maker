@@ -235,16 +235,6 @@ footer {
   overflow: hidden;       /* hides overflow edges of iframe content */
 }
 
-/* Optional: make PDF viewer height responsive on mobile screens */
-@media (max-width: 768px) {
-  .pdf-viewer iframe {
-    height: 500px; /* shorter PDF viewer on smaller devices */
-  }
-  .project-content {
-    max-width: 95%; /* use almost full width on mobile */
-  }
-}
-
 /* --------------------------------------------
    Site-Wide Layout Improvements
    -------------------------------------------- */
@@ -266,4 +256,21 @@ footer {
 /* Keep project pages slightly wider for visual balance */
 .project-content {
   max-width: 1000px;
+}
+
+figure.inline-image-center {
+  text-align: center;
+  margin: 1.5em auto;
+}
+
+figure.inline-image-center img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+figure.inline-image-center figcaption {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 0.5em;
 }

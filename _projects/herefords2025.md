@@ -39,11 +39,22 @@ Here is a sample of the technical report writing completed for one of our delive
 
 ---
 
-Here are some photos of the construction work I did on site:
+Here are some photos of our work from this summer:
 
-![Unrolling pipe in the trenches]({{ "/assets/herefords_project/pipe_roll.jpg" | relative_url }}){: .inline-image-center }
-![The storage tanks]({{ "/assets/herefords_project/tanks.jpg" | relative_url }}){: .inline-image-center }
-![Full team photo]({{ "/assets/herefords_project/full_group_pic.jpg" | relative_url }}){: .inline-image-center }
+<figure class="inline-image-center">
+  <img src="{{ '/assets/herefords_project/pipe_roll.jpg' | relative_url }}" alt="Unrolling pipe in the trenches">
+  <figcaption>Unrolling pipe in the trenches.</figcaption>
+</figure>
+
+<figure class="inline-image-center">
+  <img src="{{ '/assets/herefords_project/tanks.jpg' | relative_url }}" alt="The storage tanks">
+  <figcaption>The storage tanks.</figcaption>
+</figure>
+
+<figure class="inline-image-center">
+  <img src="{{ '/assets/herefords_project/full_group_pic.jpg' | relative_url }}" alt="Full team photo">
+  <figcaption>Full team photo at the well site.</figcaption>
+</figure>
 
 ---
 

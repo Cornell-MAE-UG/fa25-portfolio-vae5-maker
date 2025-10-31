@@ -13,8 +13,15 @@ As Construction Manager, I created the Gantt chart and Bill of Quantities for th
 
 Samples of the Gantt chart and Bill of Quantities I created:
 
-*insert image here*
+*insert links here*
 
-Here are some photos of the construction work I did on site:
+Here are some photos of our work during the project:
 
-*insert image here*
+---
+
+<figure class="inline-image-center">
+  <img src="{{ '/assets/matfuntini_project/team_tanks.jpg' | relative_url }}" alt="Full team photo at the tanks">
+  <figcaption>Full team photo at the tanks.</figcaption>
+</figure>
+
+---
