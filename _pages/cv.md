@@ -8,15 +8,13 @@ permalink: /cv/
 [Download my resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [vae5@cornell.edu](mailto:vae5@cornell.edu) | | | **Phone:** +1 845-327-8911
-
-**LinkedIn:** <a href="https://www.linkedin.com/in/violeta-egan-b74012302/" target="_blank">linkedin.com/in/violeta-egan-b74012302</a>
+**Email:** [vae5@cornell.edu](mailto:vae5@cornell.edu) | | | **Phone:** +1 845-327-8911 | | | **LinkedIn:** <a href="https://www.linkedin.com/in/violeta-egan-b74012302/" target="_blank">linkedin.com/in/violeta-egan-b74012302</a>
 
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in water and wastewater treatment systems. Passionate about WASH systems, global health and equity, and humanitarian engineering work and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in WASH infrastructure. Passionate about WASH systems, global health and equity, and water and wastewater work. I am eager to apply my knowledge in real-world applications.
 
 ---
 
@@ -50,7 +48,8 @@ Aspiring engineering student with a strong foundation in water and wastewater tr
   - Facilitated collaboration and mentorship between professional engineers and 12 students from two different universities
   - Connected and managed a team of 20 students and local staff to construct a 600 meter distribution system for over 8 weeks onsite
   - Forged cross-cultural relationships between local community members and the student team
-
+  
+  
   *Construction Manager*  (January 2024 - July 2024)
   - Directed the construction of the pilot WASH project for a team of students and local community members for 6 weeks onsite in Eswatini, Africa
   - Serviced 200 primary school students and staff with a 300 meter solar powered water distribution system
