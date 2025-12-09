@@ -3,7 +3,7 @@ layout: project
 title: ENGRD HW 5
 description: homework for ENGRD 2020
 technologies: [Handwritten work]
-image: /assets/images/engrd2020_hw5_cover.png
+image: /assets/images/Steel-roof-truss_statics_coverpic.png
 ---
 
 
